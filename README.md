@@ -2,7 +2,7 @@
 
 Aplicativo para gerenciar a participação dos brigadistas do Code for Curitiba nos diversos projetos
 
-Acesse aqui
+[Acesse aqui](http://brigada.codeforcuritiba.org).
 
 Este aplicativo está desenvolvido na plataforma Glideapps armazenando os dados em uma planilha do
 Google Sheets.
